@@ -1,0 +1,2 @@
+# This project uses only the Python standard library (Python 3.8+).
+# No external packages are required, so there is nothing to install.
