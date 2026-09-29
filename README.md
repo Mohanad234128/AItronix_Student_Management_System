@@ -46,8 +46,8 @@ AItronix_Student_Management_System/
 ├── .gitignore
 │
 ├── Theoretical_Tasks/
-│   ├── OOP_Theoretical_Tasks.docx     # Answers to Tasks 1–20 (Word)
-│   └── OOP_Theoretical_Tasks.pdf      # Same document as PDF
+│   ├── Object_Oriented_Programming_(OOP).docx     # Answers to Tasks 1–20 (Word)
+│   └── Object_Oriented_Programming_(OOP).pdf      # Same document as PDF
 │
 └── Student-Management-System/
     ├── README.md                      # Project documentation
@@ -64,7 +64,7 @@ AItronix_Student_Management_System/
 
 ## Part 1 – Theoretical Tasks (1–20)
 
-File: [`Theoretical_Tasks/OOP_Theoretical_Tasks.docx`](Theoretical_Tasks/OOP_Theoretical_Tasks.docx) (PDF copy: [`OOP_Theoretical_Tasks.pdf`](Theoretical_Tasks/OOP_Theoretical_Tasks.pdf))
+File: [`Theoretical_Tasks/Object_Oriented_Programming_(OOP).docx`](Theoretical_Tasks/Object_Oriented_Programming_(OOP).docx) (PDF copy: [`Object_Oriented_Programming_(OOP).pdf`](Theoretical_Tasks/Object_Oriented_Programming_(OOP).pdf))
 
 Every answer has a clear definition, a comparison table for "Difference between..." questions, and a short Python example. A **References** section is included at the end.
 
